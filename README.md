@@ -12,4 +12,8 @@ https://en.wikipedia.org/wiki/Ascii
 
 Another interesting feature is that anything in the code which is not one of the 8 commands is ignored by the interpreter. Therefore, you can comment your code inline without any special syntax.
 
+If you don't have an interpreter on your computer (what! you don't???), check out 
+http://repl.it/languages/Brainfuck
+(Kinda cool site with interpreters for lots of languages)
+
 Some rainy-day code samples contained herein... some commented for explanation... Enjoy?
